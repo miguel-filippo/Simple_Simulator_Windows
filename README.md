@@ -11,5 +11,6 @@ Pasta contendo todas as adições e modificações necessárias para rodar o Sim
 - Chamadas da função kbhit() foram substituídas por _kbhit() pois o Windows implica.
 
 ## Como rodar
+**Requisitos**: Python 3.0.0+
 1. Extraia o .zip.
 2. Execute o ```run.py```.
