@@ -11,4 +11,4 @@ if(warnings):
     print("=========================================")
     print()
 
-os.system("simulador")
+os.system("simulador.exe")
