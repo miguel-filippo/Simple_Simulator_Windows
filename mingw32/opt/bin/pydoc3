@@ -1,0 +1,5 @@
+#!C:/buildroot/i686-1420-mcf-dwarf-ucrt-rt_v12-rev0/mingw32/opt/bin/python3.11.exe
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()
